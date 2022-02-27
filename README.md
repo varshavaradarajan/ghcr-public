@@ -1,3 +1,3 @@
 # ghcr-public
 
-push new image!
+Push!
